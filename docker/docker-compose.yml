@@ -1,0 +1,14 @@
+# Content AI
+version: '3.4'
+services:
+  sky_ocr:
+    container_name: sky_ocr
+    build : .
+    volumes : 
+     - ../:/app
+    restart: always
+    ports:
+     - 5005:5005
+#     entrypoint : "/bin/bash"
+#     stdin_open: true
+#     tty: true
