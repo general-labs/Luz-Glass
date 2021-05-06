@@ -6,4 +6,4 @@ markupsafe==1.1.1
 pillow==5.4.1
 pytesseract==0.2.6
 werkzeug==0.15.3
-flask_cors==3.0.8
+flask_cors==3.0.9
