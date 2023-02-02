@@ -5,5 +5,5 @@ jinja2==2.10.1
 markupsafe==1.1.1
 pillow==5.4.1
 pytesseract==0.2.6
-werkzeug==0.15.3
+werkzeug==0.15.5
 flask_cors==3.0.8
